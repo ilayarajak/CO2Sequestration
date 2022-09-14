@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/CO2_sequestration" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
